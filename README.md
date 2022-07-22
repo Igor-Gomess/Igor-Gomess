@@ -27,8 +27,7 @@
   <img align="center" alt="Igor-Windows" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 </div>
   
-  ##
-  
+  ## 
  
   <a href="https://www.instagram.com/igorgomess20" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	
  <a href="https://discord.gg/mfTAdEV" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
