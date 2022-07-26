@@ -3,7 +3,7 @@
 ##
 
 - 🌱 Segundo semestre de Análise e Desenvolvimento de Sistemas, estudando ReactJS ...
-- 📫 Contate-me pelo email: igorgomess@outlook.com ou Discord: Igor Gomes#5129
+- 📫 Contate-me pelo email: igorgomess@outlook.com
 
 ##
 
