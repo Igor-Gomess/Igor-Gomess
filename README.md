@@ -2,7 +2,7 @@
 
 ##
 
-- 🌱 Segundo semestre de Análise e Desenvolvimento de Sistemas, estudando ReactJS ...
+- 🌱 Segundo semestre de Análise e Desenvolvimento de Sistemas, estudando ReactJS, Java ...
 - 📫 Contate-me pelo email: igorgomess@outlook.com
 
 ##
